@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#E9EFFF"/><stop offset="100%" style="stop-color:#E3F6FF"/></linearGradient>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#0B5CFF"/><stop offset="100%" style="stop-color:#2D8CFF"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1100" cy="80" r="360" fill="rgba(0,237,231,0.07)"/>
+  <rect x="72" y="72" width="440" height="44" rx="22" fill="rgba(11,92,255,0.10)"/>
+  <text x="292" y="101" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#0B5CFF" text-anchor="middle" letter-spacing="2.5">ZOOMFORWINDOWS.COM</text>
+  <text x="72" y="230" font-family="Arial Black,sans-serif" font-size="76" font-weight="900" fill="#00031F" letter-spacing="-2">Zoom for Windows</text>
+  <text x="72" y="300" font-family="Arial,sans-serif" font-size="30" font-weight="300" fill="#536080">Download the Free Zoom Desktop App for PC</text>
+  <text x="72" y="354" font-family="Arial,sans-serif" font-size="18" fill="#8899BB">zoom desktop app · zoom installer · zoom desktop client · zoom software · zoom for pc</text>
+  <rect x="72" y="412" width="360" height="64" rx="10" fill="url(#btn)"/>
+  <text x="252" y="451" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#FFF" text-anchor="middle">⬇ Free Download · Official</text>
+  <rect x="452" y="412" width="180" height="64" rx="10" fill="#FFF" stroke="#D6E0FF" stroke-width="1.5"/>
+  <text x="542" y="438" font-family="Arial Black,sans-serif" font-size="20" font-weight="900" fill="#0B5CFF" text-anchor="middle">300M+</text>
+  <text x="542" y="462" font-family="Arial,sans-serif" font-size="12" fill="#536080" text-anchor="middle">Daily Users</text>
+  <rect x="650" y="412" width="180" height="64" rx="10" fill="#FFF" stroke="#D6E0FF" stroke-width="1.5"/>
+  <text x="740" y="438" font-family="Arial Black,sans-serif" font-size="20" font-weight="900" fill="#00875A" text-anchor="middle">FREE</text>
+  <text x="740" y="462" font-family="Arial,sans-serif" font-size="12" fill="#536080" text-anchor="middle">Zoom Desktop App</text>
+  <rect x="848" y="412" width="180" height="64" rx="10" fill="#FFF" stroke="#D6E0FF" stroke-width="1.5"/>
+  <text x="938" y="438" font-family="Arial Black,sans-serif" font-size="18" font-weight="900" fill="#0B5CFF" text-anchor="middle">Win 10/11</text>
+  <text x="938" y="462" font-family="Arial,sans-serif" font-size="12" fill="#536080" text-anchor="middle">Full Support</text>
+</svg>

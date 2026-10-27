@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: msnbot
+Allow: /
+
+User-agent: msnbot-media
+Allow: /
+
+Sitemap: https://www.zoomforwindows.com/sitemap.xml
